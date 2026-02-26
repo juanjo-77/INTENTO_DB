@@ -3,7 +3,7 @@
 // y conecta directamente con tu backend en Clever Cloud o localhost
 
 // Cambia la URL si tu backend no está en localhost
-const BASE_URL = "http://localhost:2999";
+const BASE_URL = "";
 
 // --------------------- REGISTER ---------------------
 async function register() {
